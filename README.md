@@ -6,6 +6,7 @@ LLM 관련 논문과 기술 보고서(Technical Report)를 읽고 정리하는 �
 
 | # | 논문 | 연도 | 키워드 | 원문 | 정리 |
 |---|------|------|--------|------|------|
+| 01 | Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity | 2021 | MoE, Sparse, Routing | [arXiv](https://arxiv.org/abs/2101.03961) | [정리](papers/01-switch-transformers/README.md) |
 
 ## 구조
 
